@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+img {
+  max-width: 300px;
+}
+.odd {
+  float: left;
+  margin-right: 15px;
+}
+.even {
+  float: right;
+  margin-left: 15px;
+}
+
+p {
+  text-align: justify
+}
+
+
+html {
+  background-color: rgba(21, 24, 204, 0);
+}
+
+a:link {
+  color: rgb(18, 32, 231);
+  padding: 10px;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 20px;
+}
+a:visited {
+  color: rgb(65, 196, 236);
+}
+a:hover {
+  color: rgb(224, 19, 224);
+  box-shadown: 3px 6px;
+}
+a.current {
+  color: rgb(72, 235, 22);
+}
+a:active {
+  color: rgb(238, 196, 12);
+}
+li {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+h1 {
+  font-family: "Bebas Neue";
+  font-size: 50px;
+  font-weight: 400;
+}
+h2 {
+  font-family: "Bebas Neue";
+  font-size: 40px;
+  font-weight: 400;
+}
+p {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 30px;
+  font-weight
+}
